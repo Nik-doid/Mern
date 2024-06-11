@@ -1,0 +1,24 @@
+*{
+    font-family: cursive;
+}
+h1{
+    color: blue;
+}
+div{
+    background: aqua;
+    height: 100px;
+}
+#a{
+    color: orange;
+}
+p{
+    color: black;
+}
+.lower-div{
+    background: red;
+    height: 100px;
+}
+
+.lower-p{
+    color: yellow;
+}

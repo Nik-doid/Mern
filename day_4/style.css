@@ -1,0 +1,20 @@
+.container{
+    background-color: aquamarine;
+    position: relative;
+    height: 50vh;
+}
+.hello{
+    background-color: rgb(222, 28, 28);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+}
+.navbar{
+    background-color: bisque;
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    z-index: 100;
+}

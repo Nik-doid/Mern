@@ -1,0 +1,26 @@
+.main{
+    display:contents;
+}
+.a{
+    width: 1000px;
+    height: 100px;
+    background: rgba(206, 201, 197, 0.49);
+}
+h3{
+    text-align: center;
+}
+.b{
+    width: 1000px;
+    height: 80px;
+    background-color: grey;
+}
+.c{
+    width: 1000px;
+    height: 400px;
+    background: rgba(216, 216, 216, 0.49) ;
+}
+.d{
+    width: 1000px;
+    height: 90px;
+    background: rgba(206, 201, 197, 0.49);
+}
